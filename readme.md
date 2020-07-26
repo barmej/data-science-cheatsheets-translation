@@ -28,6 +28,7 @@
 | القالب | تجهيز القالب | الترجمة | المراجعة |
 | --- | --- | --- | --- |
 | `t1-what-is-data-science` | ✅|  |  |
+| `t8-modeling-evaluation-environment` | ✅|  |  |
 
 </span>
 

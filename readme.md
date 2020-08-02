@@ -34,6 +34,8 @@
 | `t5-feature-engineering` | ✅|  |  |
 | `t6-modeling-taxonomy` | |  |  |
 | `t8-modeling-evaluation-environment` | ✅|  |  |
+| `t9-machine-learning` | ✅|  |  |
+| `t10-sql` | ✅|  |  |
 
 </span>
 

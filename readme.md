@@ -33,6 +33,7 @@
 | `t4-data-cleaning` | ✅|  |  |
 | `t5-feature-engineering` | ✅|  |  |
 | `t6-modeling-taxonomy` | |  |  |
+| `t7-modeling-evaluation-metrics` | ✅|  |  |
 | `t8-modeling-evaluation-environment` | ✅|  |  |
 | `t9-machine-learning` | ✅|  |  |
 | `t10-sql` | ✅|  |  |

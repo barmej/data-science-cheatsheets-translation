@@ -28,7 +28,7 @@
 | القالب | تجهيز القالب | الترجمة | المراجعة |
 | --- | --- | --- | --- |
 | `t1-what-is-data-science` | ✅| ✅ |  |
-| `t2-types-of-data` | ✅|  |  |
+| `t2-types-of-data` | ✅| ✅|  |
 | `t3-types-of-problems` | ✅|  |  |
 | `t4-data-cleaning` | ✅|  |  |
 | `t5-feature-engineering` | ✅|  |  |

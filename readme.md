@@ -1,6 +1,6 @@
 <span dir="rtl" align="right">
 
-# مشروع ترجمة مخلصات مختصرة في علم البيانات
+# مشروع ترجمة ملخصات مختصرة في علم البيانات
 
 </span>
 
@@ -27,7 +27,7 @@
 
 | القالب | تجهيز القالب | الترجمة | المراجعة |
 | --- | --- | --- | --- |
-| `t1-what-is-data-science` | ✅|  |  |
+| `t1-what-is-data-science` | ✅| ✅ |  |
 | `t2-types-of-data` | ✅|  |  |
 | `t3-types-of-problems` | ✅|  |  |
 | `t4-data-cleaning` | ✅|  |  |
@@ -81,6 +81,6 @@
 <span dir="rtl" align="right">
 
 ## قائمة المساهمين
-
+[شفاء سعد](https://github.com/shefaas) - [أميرة مليباري](https://github.com/AmeeraMilibari) - [عبدالله الحسينان](https://github.com/AbdullahAlh)
 </span>
 

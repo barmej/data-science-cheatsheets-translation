@@ -4,24 +4,24 @@
 
 **Classification**
 <div dir="rtl">
-اكتب ترجمة النص هنا
+التصنيف
 </div>
 <br>
 
-Assigning something to a discrete set of possibilities. e.g. spam or non-spam, Democrat or Repub- lican, blood type (A, B, AB, O)
+Assigning something to a discrete set of possibilities. e.g. spam or non-spam, Democrat or Republican, blood type (A, B, AB, O)
 <div dir="rtl">
-اكتب ترجمة النص هنا
+إسناد الشيء إلى مجموعة من الاحتمالات المتقطعة مثل: رسائل مزعجة أو غير مزعجة،ديموقراطي أو جمهوري، فصيلة الدم (A, B, AB, O)  
 </div>
 <br>
 
 **Regression**
 <div dir="rtl">
-اكتب ترجمة النص هنا
+الإنحدار
 </div>
 <br>
 
-Predicting a numerical value. e.g. some- one’s income, next year GDP, stock price
+Predicting a numerical value. e.g. someone’s income, next year GDP, stock price
 <div dir="rtl">
-اكتب ترجمة النص هنا
+التنبو بقيمة رقمية مثل:  قيمة دخل أحدهم، الناتج المحلي الإجمالي للسنة القادمة، سعر السهم 
 </div>
 <br>

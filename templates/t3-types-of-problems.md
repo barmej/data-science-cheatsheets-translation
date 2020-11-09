@@ -10,7 +10,7 @@
 
 Assigning something to a discrete set of possibilities. e.g. spam or non-spam, Democrat or Republican, blood type (A, B, AB, O)
 <div dir="rtl">
-إسناد الشيء إلى مجموعة من الاحتمالات المتقطعة مثل: رسائل مزعجة أو غير مزعجة،ديموقراطي أو جمهوري، فصيلة الدم (A, B, AB, O)  
+إسناد الشيء إلى مجموعة من الاحتمالات المتقطعة مثل: رسائل مزعجة أو غير مزعجة، ديموقراطي أو جمهوري، فصيلة الدم (A, B, AB, O)  
 </div>
 <br>
 
@@ -22,6 +22,6 @@ Assigning something to a discrete set of possibilities. e.g. spam or non-spam, D
 
 Predicting a numerical value. e.g. someone’s income, next year GDP, stock price
 <div dir="rtl">
-التنبو بقيمة رقمية مثل:  قيمة دخل أحدهم، الناتج المحلي الإجمالي للسنة القادمة، سعر السهم 
+.التنبو بقيمة رقمية مثل:  قيمة دخل أحدهم، أو الناتج المحلي الإجمالي للسنة القادمة، أو سعر السهم 
 </div>
 <br>

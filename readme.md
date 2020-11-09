@@ -81,6 +81,13 @@
 <span dir="rtl" align="right">
 
 ## قائمة المساهمين
-[شفاء سعد](https://github.com/shefaas) - [أميرة مليباري](https://github.com/AmeeraMilibari) - [عبدالله الحسينان](https://github.com/AbdullahAlh)
+
+[شفاء سعد](https://github.com/shefaas)
+
+[أميرة مليباري](https://github.com/AmeeraMilibari)
+
+[عبدالله الحسينان](https://github.com/AbdullahAlh)
+
+[غالية الأنصاري](https://github.com/GhalyahFA)
 </span>
 

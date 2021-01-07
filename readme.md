@@ -36,7 +36,7 @@
 | `t7-modeling-evaluation-metrics` | ✅|  |  |
 | `t8-modeling-evaluation-environment` | ✅|  |  |
 | `t9-machine-learning` | ✅|  |  |
-| `t10-sql` | ✅|  |  |
+| `t10-sql` | ✅| ✅ |  |
 
 </span>
 

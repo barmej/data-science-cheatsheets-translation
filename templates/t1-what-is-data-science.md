@@ -34,13 +34,13 @@
 
 **6. Given some data, what interesting problems can be solved with it?**
 <div dir="rtl">
-لدينا بعض البيانات، ما هي المشكلات الشيقة التي يمكننا حلها باستخدام هذه البيانات؟
+لدينا بعض البيانات، ما هي المشكلات المثيرة للاهتمام التي يمكننا حلها باستخدام هذه البيانات؟
 </div>
 <br>
 
 **7. The heart of data science is to always ask questions. Al- ways be curious about the world.**
 <div dir="rtl">
-قلب علم البيانات النابض هو أن نسأل. دائما كن فضوليا وأنظر من حولك. 
+قلب علم البيانات النابض هو طرح الأسئلة. دائما كن فضوليا وأنظر من حولك. 
 </div>
 <br>
 
@@ -52,6 +52,6 @@
 
 **9. What actions can we take once we find whatever it is we are looking for?**
 <div dir="rtl">
-ما هي الأفعال التي يمكننا تطبيقها بعد إيجاد ما كنا نبحث عنه؟
+ما هي الإجراءات التي يمكننا تطبيقها بعد إيجاد ما كنا نبحث عنه؟
 </div>
 <br>
